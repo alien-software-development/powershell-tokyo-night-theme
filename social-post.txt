@@ -1,0 +1,87 @@
+================================================================================
+TOKYO NIGHT POWERSHELL THEME - SOCIAL MEDIA & WHATSAPP MARKETING TEMPLATES
+Alien Software Development • https://aliensoftwaredevelopment.com
+Hotline / WhatsApp: +8801710978997
+================================================================================
+
+--------------------------------------------------------------------------------
+OPTION 1: WHATSAPP BROADCAST / DIRECT MESSAGE (BANGLA + ENGLISH)
+--------------------------------------------------------------------------------
+
+🚀 Make Your PowerShell Look Stunning with Tokyo Night Dark Theme! 🌃✨
+(আপনার বোরিং ব্লু PowerShell-কে বানিয়ে ফেলুন সুপার কুল ও প্রো-লেভেল!)
+
+বোরিং ডিফল্ট PowerShell ব্যবহার করতে করতে ক্লান্ত? 
+আমরা Alien Software Development থেকে নিয়ে এসেছি সম্পূর্ণ ওপেন-সোর্স 1-Click "Tokyo Night Theme" for PowerShell 7+ & 5.1! 💻🔥
+
+✨ Key Highlights:
+• 🎨 24-bit TrueColor Syntax Highlighting (Eye-friendly dark aesthetic)
+• 🔍 High-contrast Navy Selection (সহজে টেক্সট সিলেক্ট ও পড়া যায়)
+• 💡 Predictive IntelliSense & Smart Autocomplete
+• 🌿 Git Branch & Status indicator in prompt
+• 📦 1-Click Offline Portability (কোনো Admin পারমিশন ছাড়াই যেকোনো পিসিতে কাজ করবে)
+
+⚡ One-Line Instant Installation:
+শুধু PowerShell ওপেন করে নিচের কোডটি রান করুন:
+
+irm https://raw.githubusercontent.com/alien-software-development/powershell-tokyo-night-theme/main/Apply-Theme.ps1 | iex
+
+⭐ Star & View on GitHub:
+👉 https://github.com/alien-software-development/powershell-tokyo-night-theme
+
+🌐 Website: https://aliensoftwaredevelopment.com
+📞 Direct Support / WhatsApp: +8801710978997
+
+
+--------------------------------------------------------------------------------
+OPTION 2: FACEBOOK / LINKEDIN POST (PROFESSIONAL & ENGAGING)
+--------------------------------------------------------------------------------
+
+🌃 Tired of the dull, default blue PowerShell terminal? Level up your developer workflow with Tokyo Night! ⚡👨‍💻
+
+আমরা ডেভেলপাররা সারাদিন টার্মিনাল নিয়ে কাজ করি। কিন্তু ডিফল্ট উইন্ডোজ PowerShell দেখতে অনেকটাই বোরিং এবং চোখের জন্য ক্লান্তিকর। 
+
+তাই Alien Software Development থেকে আমরা রিলিজ করেছি সম্পূর্ণ ওপেন-সোর্স:
+🔥 Tokyo Night Dark Theme for PowerShell (5.1 & 7+)
+
+✨ What makes it awesome?
+✔️ 24-bit TrueColor Syntax: কোড, কমান্ড, প্যারামিটার ও স্ট্রিং এর জন্য পারফেক্ট কালার কোডিং।
+✔️ Clean Selection: টেক্সট সিলেক্ট করলে ডিপ নেভি ব্যাকগ্রাউন্ডের সাথে ক্লিয়ার হোয়াইট টেক্সট।
+✔️ Git-Aware Dynamic Prompt: আপনার কারেন্ট ডিরেক্টরি এবং Git Branch রিয়েল-টাইমে শো করবে।
+✔️ Smart Prediction: অ্যারো কি দিয়ে হিস্ট্রি সার্চ ও অটো-কমপ্লিশন।
+✔️ 1-Click Portable Setup: যেকোনো নতুন কম্পিউটারে শুধু একটি ক্লিক বা কমান্ডেই ইনস্টল হয়ে যাবে!
+
+🚀 কিভাবে ইনস্টল করবেন? (Just 1 Second!)
+আপনার PowerShell ওপেন করে পেস্ট করুন:
+
+irm https://raw.githubusercontent.com/alien-software-development/powershell-tokyo-night-theme/main/Apply-Theme.ps1 | iex
+
+📂 সম্পূর্ণ সোর্স কোড ও GitHub Repo:
+🔗 https://github.com/alien-software-development/powershell-tokyo-night-theme
+
+ভালো লাগলে রিপোজিটরিতে একটি Star ⭐ দিয়ে পাশে থাকবেন! 
+
+---
+Developed with ❤️ by Alien Software Development
+🌐 Website: https://aliensoftwaredevelopment.com
+📱 WhatsApp: +8801710978997
+
+#PowerShell #DeveloperTools #OpenSource #TokyoNight #Coding #AlienSoftwareDevelopment #WindowsTerminal #WebDev
+
+
+--------------------------------------------------------------------------------
+OPTION 3: SHORT TECH POST (TWITTER / X / DISCORD / TELEGRAM)
+--------------------------------------------------------------------------------
+
+Give your Windows PowerShell a gorgeous Tokyo Night aesthetic! 🌃✨
+
+✅ 24-bit TrueColor syntax highlighting
+✅ Clean navy selection
+✅ Git-aware prompt
+✅ 1-Click instant install on any PC
+
+Run in PowerShell:
+irm https://raw.githubusercontent.com/alien-software-development/powershell-tokyo-night-theme/main/Apply-Theme.ps1 | iex
+
+⭐ GitHub: https://github.com/alien-software-development/powershell-tokyo-night-theme
+By @AlienSoftwareDevelopment
