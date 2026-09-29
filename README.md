@@ -61,12 +61,29 @@ irm https://raw.githubusercontent.com/alien-software-development/powershell-toky
 
 ---
 
-### Option 3: Manual PowerShell Script
+### Option 3: Manual PowerShell Script with Advanced Options
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+# Standard installation with automatic backup and live visual swatch preview
 .\Apply-Theme.ps1
+
+# Silent installation (no banner or preview)
+.\Apply-Theme.ps1 -Quiet
+
+# Revert and restore your previous original profile
+.\Apply-Theme.ps1 -Uninstall
 ```
+
+---
+
+## ⚡ Instant GitHub Auto-Sync Engine (For Maintainers)
+
+This repository includes a built-in automated Git synchronization engine:
+
+* **1-Click Sync**: Double-click `sync.bat` to automatically recompile standalone installers, stage, commit, and push all updates to GitHub.
+* **Live File Watcher**: Double-click `auto-watch.bat` (or run `.\Sync-Git.ps1 -Watch`) to start a background watcher that monitors your files and automatically commits and pushes to GitHub within seconds of saving any change!
 
 ---
 
