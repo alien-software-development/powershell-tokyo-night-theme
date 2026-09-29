@@ -144,3 +144,21 @@ Feel free to open an issue or submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📞 24/7 Enterprise Sales & Technical Support
+
+- **🌐 Official Website:** [https://aliensoftwaredevelopment.com](https://aliensoftwaredevelopment.com)
+- **📱 Direct Hotline / WhatsApp:** **`+8801710978997`** (👉 [Click to Chat on WhatsApp](https://wa.me/8801710978997))
+- **💻 Instant Live Demo & Remote Setup:** Available daily via AnyDesk / TeamViewer.
+- **💳 Accepted Payment Methods:** bKash (Personal/Merchant), Nagad, Rocket, Bank Wire Transfer, Visa / Mastercard, and USDT (Crypto TRC-20).
+
+---
+
+<div align="center">
+
+**Developed with ❤️ by [Alien Software Development](https://aliensoftwaredevelopment.com)**  
+*Transforming Businesses with Intelligent Software & Enterprise Automation.*
+
+</div>
