@@ -151,8 +151,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - **🌐 Official Website:** [https://aliensoftwaredevelopment.com](https://aliensoftwaredevelopment.com)
 - **📱 Direct Hotline / WhatsApp:** **`+8801710978997`** (👉 [Click to Chat on WhatsApp](https://wa.me/8801710978997))
-- **💻 Instant Live Demo & Remote Setup:** Available daily via AnyDesk / TeamViewer.
-- **💳 Accepted Payment Methods:** bKash (Personal/Merchant), Nagad, Rocket, Bank Wire Transfer, Visa / Mastercard, and USDT (Crypto TRC-20).
+- **💻 Instant Live Demo:** Available daily via AnyDesk / TeamViewer.
 
 ---
 
