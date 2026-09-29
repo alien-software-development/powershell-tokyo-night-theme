@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sohaghaing0070/powershell-tokyo-night-theme"><img src="https://img.shields.io/badge/PowerShell-5.1%20%7C%207%2B-blue?logo=powershell&logoColor=white" alt="PowerShell Version" /></a>
-  <a href="https://github.com/sohaghaing0070/powershell-tokyo-night-theme"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white" alt="Platform" /></a>
+  <a href="https://github.com/alien-software-development/powershell-tokyo-night-theme"><img src="https://img.shields.io/badge/PowerShell-5.1%20%7C%207%2B-blue?logo=powershell&logoColor=white" alt="PowerShell Version" /></a>
+  <a href="https://github.com/alien-software-development/powershell-tokyo-night-theme"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white" alt="Platform" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
-  <a href="https://github.com/sohaghaing0070/powershell-tokyo-night-theme/stargazers"><img src="https://img.shields.io/github/stars/sohaghaing0070/powershell-tokyo-night-theme?style=flat&color=yellow" alt="Stars" /></a>
-  <a href="https://github.com/sohaghaing0070/powershell-tokyo-night-theme/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/alien-software-development/powershell-tokyo-night-theme/stargazers"><img src="https://img.shields.io/github/stars/alien-software-development/powershell-tokyo-night-theme?style=flat&color=yellow" alt="Stars" /></a>
+  <a href="https://github.com/alien-software-development/powershell-tokyo-night-theme/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ This repository provides an automated, self-contained configuration installer th
 Open any PowerShell prompt and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/sohaghaing0070/powershell-tokyo-night-theme/main/Apply-Theme.ps1 | iex
+irm https://raw.githubusercontent.com/alien-software-development/powershell-tokyo-night-theme/main/Apply-Theme.ps1 | iex
 ```
 
 ---
@@ -54,7 +54,7 @@ irm https://raw.githubusercontent.com/sohaghaing0070/powershell-tokyo-night-them
 
 1. Clone or download this repository:
    ```cmd
-   git clone https://github.com/sohaghaing0070/powershell-tokyo-night-theme.git
+   git clone https://github.com/alien-software-development/powershell-tokyo-night-theme.git
    ```
 2. Double-click **`Apply-PowerShell-Theme.bat`** (or `Apply-Theme.bat`).
 3. Open a new PowerShell window to enjoy your new theme!
